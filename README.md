@@ -1,0 +1,2 @@
+# nitinrana691-Optimizing-Delivery-Efficiency-for-Reduced-Packaging-Waste-SDG-12-
+ SDG 12: Responsible Consumption and Production by optimizing logistics to reduce environmental impact.  Highlights: GTFS Data: Identifying inefficiencies in delivery routes. Dynamic Packaging: Predicting optimal box sizes to cut down on waste. Sustainability: Exploring reusable packaging and route optimization to lower carbon emissions.
