@@ -1,0 +1,11 @@
+trip_id,time,speed,Number_of_trips
+NORMAL_13_Upper Depot To Shivajinagar_Up-1330_0,0.001666667,52.76152069,13.0
+NORMAL_309_Dehugaon To Alandi_Down-1330_0,0.002222222,85.57213123,26.0
+NORMAL_309_Dehugaon To Alandi_Down-1400_0,0.002222222,85.57213123,26.0
+NORMAL_19_Kondhwa Hospital To Shivajinagar_Up-1250_0,0.002777778,31.65691621,13.0
+NORMAL_103_Katraj To Kothrud Depot_Up-0825_0,0.003888889,60.11905883,10.0
+NORMAL_5_Swargate To Pune Station_Up-0850_0,0.004722222,66.78136018,20.0
+NORMAL_149_Shewalwadi To Pimprigaon_Up-1225_0,0.005,60.29992253,30.0
+NORMAL_VJR3_Hadapsar Gadital To Kothrud Depot_Down-1230_0,0.005,46.75926931,40.0
+NORMAL_331_Charholigaon To Rahatnigaon_Up-1440_0,0.005,52.73553536,12.0
+NORMAL_166_Pune Station To Viman Nagar_UP-1330_0,0.005277778,55.72731374,3.0

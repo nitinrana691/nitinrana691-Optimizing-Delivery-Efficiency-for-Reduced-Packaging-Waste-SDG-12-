@@ -1,0 +1,31 @@
+E-commerce Delivery Optimization Project Report
+=============================================
+
+Optimal Routes Summary:
+                                                        trip_id      time      speed  Number_of_trips
+560             NORMAL_13_Upper Depot To Shivajinagar_Up-1330_0  0.001667  52.761521             13.0
+2066                  NORMAL_309_Dehugaon To Alandi_Down-1330_0  0.002222  85.572131             26.0
+2067                  NORMAL_309_Dehugaon To Alandi_Down-1400_0  0.002222  85.572131             26.0
+1286       NORMAL_19_Kondhwa Hospital To Shivajinagar_Up-1250_0  0.002778  31.656916             13.0
+49                 NORMAL_103_Katraj To Kothrud Depot_Up-0825_0  0.003889  60.119059             10.0
+2853                NORMAL_5_Swargate To Pune Station_Up-0850_0  0.004722  66.781360             20.0
+752               NORMAL_149_Shewalwadi To Pimprigaon_Up-1225_0  0.005000  60.299923             30.0
+3161  NORMAL_VJR3_Hadapsar Gadital To Kothrud Depot_Down-1230_0  0.005000  46.759269             40.0
+2265           NORMAL_331_Charholigaon To Rahatnigaon_Up-1440_0  0.005000  52.735535             12.0
+965            NORMAL_166_Pune Station To Viman Nagar_UP-1330_0  0.005278  55.727314              3.0
+
+High Travel Time Trips Summary:
+                                                                 trip_id      time      speed  Number_of_trips
+1251                NORMAL_192_Hadapsar Gadital To Vadachiwadi_Up-0900_0  0.250278  24.964110             16.0
+1583  NORMAL_24_Katraj To Maharashtra Housing Board Samtanagar_Up-0835_0  0.250556  27.281605             26.0
+2771            NORMAL_51_Shivajinagar To Dhayari Maruti Mandi_Up-1425_0  0.250556  30.812271            404.0
+619                   NORMAL_144_Kothrud Stand To Pune Station_Up-0855_0  0.250556  23.967361            159.0
+823               NORMAL_154_Vishrantwadi To Sasoon Hospital_Down-0850_0  0.250556  23.072222            193.0
+2701                       NORMAL_43_Bhakti Shakti To Katraj_Down-0855_0  0.250833  29.688946             88.0
+3105        NORMAL_9_Hadapsar Gadital To Uruli Railway Station_Up-0850_0  0.250833  53.268288             54.0
+413                       NORMAL_123_Ma Na Pa To Bhakti Shakti_Up-0850_0  0.251111  34.442570            184.0
+1686            NORMAL_276_Warje Malawadi To Chinchwad Gaon Up_Up-0825_0  0.251111  33.791761            139.0
+2617                 NORMAL_376_Warje Malwadi To Bhakti Shakti_Up-0820_0  0.251111  29.549397             99.0
+
+Estimated Reduction in Carbon Emissions: 825620.0 kg CO2
+Estimated Reduction in Packaging Waste: 165124.0 kg
